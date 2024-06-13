@@ -27,11 +27,11 @@ sales_streamlit/
 
 + resources/: Contiene los archivos de datos y las capturas de pantalla.
 + src/: Contiene el código fuente del proyecto.
-+ __init__.py: Archivo que marca el directorio como un paquete.
-+ data_loader.py: Carga y prepara los datos.
-+ filters.py: Aplica los filtros a los datos.
-+ visualizations.py: Genera visualizaciones a partir de los datos.
-+ main.py: Archivo principal para ejecutar la aplicación Streamlit.
+    -  __init__.py: Archivo que marca el directorio como un paquete.
+    -  data_loader.py: Carga y prepara los datos.
+    - filters.py: Aplica los filtros a los datos.
+    - visualizations.py: Genera visualizaciones a partir de los datos.
+    - main.py: Archivo principal para ejecutar la aplicación Streamlit.
 
 ## Requisitos del Sistema
 + Python 3.8 o superior
