@@ -21,6 +21,8 @@ sales_streamlit/
     ├── filters.py
     ├── visualizations.py
     └── main.py
+└── README.md
+└── License.txt
 ```
 
 + resources/: Contiene los archivos de datos y las capturas de pantalla.
@@ -39,37 +41,46 @@ sales_streamlit/
 
 + Clona el repositorio.
     ```plaintext
-     git clone https://github.com/miguelrdgzb/sales_streamlit.git```
+     git clone https://github.com/miguelrdgzb/sales_streamlit.git
 
 + Navega al directorio del proyecto
     ```plaintext
-    cd sales_streamlit```
+    cd sales_streamlit
 
 + Crea un entorno virtual
     ```plaintext
         python -m venv env 
-        env\Scripts\activate```
+        env\Scripts\activate
 
 + Instala las dependencias
     ```plaintext
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 
 ## Ejecución de la aplicación
 
-    Desde el directorio raíz del proyecto ejecuta:
++ Desde el directorio raíz del proyecto ejecuta:
     ```plaintext
-    streamlit run src/main.py```
+    streamlit run src/main.py
 
 
 ## Muestra
 
-![Imagen 1](resources/img1.png)
-![Imagen 2](resources/img2.png)
-![Imagen 3](resources/img3.png)
-![Imagen 4](resources/img4.png)
-![Imagen 5](resources/img5.png)
-![Imagen 6](resources/img6.png)
+![Imagen 1](resources/img1.jpg)
+![Imagen 2](resources/img2.jpg)
+![Imagen 3](resources/img3.jpg)
+![Imagen 4](resources/img4.jpg)
+![Imagen 5](resources/img5.jpg)
+![Imagen 6](resources/img6.jpg)
+
+## Autor
+
+>> Miguel Rodríguez
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](License) para más detalles.
+
 
 
 
