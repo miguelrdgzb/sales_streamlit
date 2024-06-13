@@ -79,7 +79,7 @@ sales_streamlit/
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](License) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](License.txt) para más detalles.
 
 
 
