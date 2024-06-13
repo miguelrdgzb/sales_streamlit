@@ -21,6 +21,7 @@ sales_streamlit/
     ├── filters.py
     ├── visualizations.py
     └── main.py
+```
 
 + resources/: Contiene los archivos de datos y las capturas de pantalla.
 + src/: Contiene el código fuente del proyecto.
@@ -37,23 +38,28 @@ sales_streamlit/
 ## Instalación
 
 + Clona el repositorio.
-    ```git clone https://github.com/miguelrdgzb/sales_streamlit.git
+    ```plaintext
+     git clone https://github.com/miguelrdgzb/sales_streamlit.git```
 
 + Navega al directorio del proyecto
-    ```cd sales_streamlit
+    ```plaintext
+    cd sales_streamlit```
 
 + Crea un entorno virtual
-    ```python -m venv env 
-    ``` env\Scripts\activate
+    ```plaintext
+        python -m venv env 
+        env\Scripts\activate```
 
 + Instala las dependencias
-    ```pip install -r requirements.txt
+    ```plaintext
+    pip install -r requirements.txt```
 
 
 ## Ejecución de la aplicación
 
     Desde el directorio raíz del proyecto ejecuta:
-    ```streamlit run src/main.py
+    ```plaintext
+    streamlit run src/main.py```
 
 
 ## Muestra
