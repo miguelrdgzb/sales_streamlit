@@ -1,3 +1,4 @@
 resources/ 
 .vscode/ 
 sales_streamlit/ 
+__pycache__
